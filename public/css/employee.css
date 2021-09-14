@@ -1,0 +1,19 @@
+.read_data_body {
+    width: 100%;
+}
+.read_data {
+    width: 100%;;
+    /* padding: 50px;; */
+}
+.employees_read_heading {
+    color :blue;
+    text-align: center;
+    padding: 50px;;
+}
+.read_data .table {
+    width: 100%;
+}
+.read_data_body .read_data_row {
+    /* background-color: rgb(206, 173, 230); */
+    overflow-x: scroll;
+}

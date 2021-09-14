@@ -1,0 +1,40 @@
+.users-users-heading{
+    color :blue;
+    text-align: center;
+    padding: 50px;;
+}
+.users-create-heading{
+    color :blue;
+    text-align: center;
+    padding: 50px;;
+}
+.users-show-heading{
+    color :blue;
+    text-align: center;
+    padding: 50px;;
+}
+.users-edit-heading{
+    color :blue;
+    text-align: center;
+    padding: 50px;;
+}
+.users-create-form-section{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 0 auto;
+    /* background-color: green;; */
+}
+.users-edit-form-section{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 0 auto;
+    /* background-color: green;; */
+}
+.read_data_data {
+    padding: 50px;;
+}
+.employees_read_heading {
+    color :blue;
+    text-align: center;
+    padding: 50px;;
+}
